@@ -1,5 +1,5 @@
 # How to run CyberBookDirectoryAPI ?
-1. Go to the directory `CyberResizeImage`
+1. Go to the directory `CyberBookDirectoryAPI`
 2. install packet
 ```
 npm install
