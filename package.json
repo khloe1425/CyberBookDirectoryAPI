@@ -1,19 +1,19 @@
 {
-    "name": "nodejs_api_crud",
-    "version": "1.0.0",
-    "description": "",
-    "main": "app.js",
-    "scripts": {
-        "dev": "nodemon app.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "bta",
-    "license": "ISC",
-    "dependencies": {
-        "body-parser": "^1.19.1",
-        "express": "^4.17.2"
-    },
-    "devDependencies": {
-        "nodemon": "^2.0.15"
-    }
+  "name": "cyberbookdirectoryapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon app/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
